@@ -107,11 +107,14 @@ body{
     height:90%;
     overflow:hidden;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 768px) {
     h1 {
       display:'none';
     }
     .info{
         font-size:'large';
     }
+    .grid{
+    height:65vmin;
+    width:65vmin}
   }
