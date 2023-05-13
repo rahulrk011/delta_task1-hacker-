@@ -2,8 +2,8 @@
 .Area{
     display: grid;
     background-color: rgb(202, 238, 226);
-    width:55vmin;
-    height: 55vmin;
+    width:50vmin;
+    height: 50vmin;
     border: 20px solid black;
     margin:0 auto ;
     margin-top: auto 150px ;
@@ -114,7 +114,7 @@ body{
     .info{
         font-size:'large';
     }
-    .grid{
+    .Area{
     height:65vmin;
     width:65vmin}
   }
